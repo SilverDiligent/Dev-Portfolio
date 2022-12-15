@@ -1,0 +1,65 @@
+
+
+
+.my-name {
+    font-size: 20px;
+    font-family: Arial;
+    text-align: left;
+    margin-top: 20px;
+    margin-right: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    vertical-align: top;
+    width: 195px;
+    height: 35px;
+  
+  }
+
+  .my-name:hover, a:focus {
+    color: dodgerblue
+  }
+
+  .about-me {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    margin: top 20px;
+    cursor: pointer;
+
+  
+}
+
+.my-projects {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    margin: top 20px;
+    cursor: pointer;
+    font-weight: bold;
+      
+}
+
+.my-contact {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    margin: top 20px;
+    cursor: pointer;
+}
+
+.picture-of-myself {
+  width: 80px;
+  height: 100px;
+  border-radius: 100px;
+  object-fit: cover;
+  object-position: center;
+  
+}
+
+body {
+  background-color: hsl(46, 33%, 44%);
+}
+
+h1 {
+  background-color: white;
+}
